@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Esperiência Virtual com o na praia.
+
+### Title
+tour.name = Experiência VIrtual Na Praia
+
+## Media
+
+### Title
+map_EC373836_F094_6319_41DF_1C90012C7F82.label = Planta Humanizada_57 - Foto
+panorama_8D10D9F0_82F6_DCFA_41CD_AC97C149E4AD.label = Palco
+video_E4EB3946_F0FC_6579_41C6_4D95C874B539.label = corona_v2
+video_E66B56F1_F094_AF1A_41E5_737E09D467F6.label = preview 1
+video_E6B6CDCF_F094_5D06_41CF_F6020F03B0D9.label = 12221876-preview
+video_E74CA93F_F0FC_A506_41C2_C00797EA0A03.label = corona_v2
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_8C23B9CE_8295_5D26_41DD_96938C2823E3.toolTip = Camera exclusiva
+HotspotPanoramaOverlayArea_8C2ECB2C_82EB_BD6A_41DF_62BC6DB0710B.toolTip = Selfie com os Artistas
+HotspotPanoramaOverlayArea_8CC70827_82EF_5B66_41A0_C5757088A599.toolTip = Camarim
+HotspotPanoramaOverlayArea_8CDE7ECA_82EB_572E_41C3_3599DE3EF40E.toolTip = Filtro Portal
