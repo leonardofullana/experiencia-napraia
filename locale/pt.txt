@@ -8,11 +8,14 @@ tour.name = Experiência Virtual Na Praia
 ## Media
 
 ### Title
-panorama_8C9F73BA_8667_2B0F_41C7_0270B09A22B6.label = panoramica_camarim
-panorama_8FD303C7_8667_6B05_41DA_802850A8E3B6.label = Site - R01_3 - Panorâmica
+panorama_8C9F73BA_8667_2B0F_41C7_0270B09A22B6.label = Camarim
+panorama_8FD303C7_8667_6B05_41DA_802850A8E3B6.label = Palco - Principal
 video_881DCF11_8667_3B1D_41CA_0690A3991A53.label = ic_red-v5
 
 ## Action
 
 ### URL
 LinkBehaviour_948674AF_8679_2D05_41CB_69CD71BA7291.source = www.reddream.com.br
+LinkBehaviour_94A9DEFE_86A8_FD04_41C5_EFBA51F66390.source = https://www.instagram.com/ar/321552592350118/
+LinkBehaviour_94A9EEFE_86A8_FD04_41E0_C39790B6F68D.source = https://www.instagram.com/tevejonapraia/
+LinkBehaviour_94A9FEFE_86A8_FD04_41D7_E1B4017327F5.source = https://www.instagram.com/ar/321246329006598/
