@@ -13,6 +13,8 @@ tour.name = Experiência VIrtual Na Praia
 ### Title
 map_EC373836_F094_6319_41DF_1C90012C7F82.label = Planta Humanizada_57 - Foto
 panorama_8D10D9F0_82F6_DCFA_41CD_AC97C149E4AD.label = Palco
+panorama_92F42FB8_83AA_B56A_41BC_06C745BE1D9F.label = panoramica_camarim
+video_95186C2F_8295_7B66_41D0_B96C6F5B4021.label = ic_red-v5
 video_E4EB3946_F0FC_6579_41C6_4D95C874B539.label = corona_v2
 video_E66B56F1_F094_AF1A_41E5_737E09D467F6.label = preview 1
 video_E6B6CDCF_F094_5D06_41CF_F6020F03B0D9.label = 12221876-preview
@@ -21,7 +23,14 @@ video_E74CA93F_F0FC_A506_41C2_C00797EA0A03.label = corona_v2
 ## Hotspot
 
 ### Tooltip
-HotspotPanoramaOverlayArea_8C23B9CE_8295_5D26_41DD_96938C2823E3.toolTip = Camera exclusiva
-HotspotPanoramaOverlayArea_8C2ECB2C_82EB_BD6A_41DF_62BC6DB0710B.toolTip = Selfie com os Artistas
 HotspotPanoramaOverlayArea_8CC70827_82EF_5B66_41A0_C5757088A599.toolTip = Camarim
-HotspotPanoramaOverlayArea_8CDE7ECA_82EB_572E_41C3_3599DE3EF40E.toolTip = Filtro Portal
+HotspotPanoramaOverlayArea_9142A686_829A_D726_41DD_3984D3000B0C.toolTip = Filtro Portal
+HotspotPanoramaOverlayArea_96C55B25_85AA_DD1A_41C5_090028D9A876.toolTip = Camera exclusiva
+HotspotPanoramaOverlayArea_970A5A98_85F7_DF2A_41BB_5BFE38EBDC0F.toolTip = Selfie com os Artistas
+
+## Action
+
+### URL
+LinkBehaviour_9760BD92_85F5_D53E_41E0_3EC099FEEA4B.source = www.reddream.com.br
+LinkBehaviour_97AE5A96_85F5_5F26_41DD_E89CF052BE92.source = https://www.instagram.com/ar/321552592350118/
+LinkBehaviour_97AFAA96_85F5_5F26_419D_C5B2C62BEB64.source = https://www.instagram.com/ar/321246329006598/
